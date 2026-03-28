@@ -1,18 +1,18 @@
-# 🚦 Adaptive Traffic Signal Control System using Learning Agent
+#  Adaptive Traffic Signal Control System using Learning Agent
 
-## 📌 Overview
+##  Overview
 
 This project simulates an intelligent traffic signal control system that dynamically adjusts green signal timing based on traffic density. Unlike traditional fixed-time signals, this system adapts to changing traffic conditions using a simple learning agent approach.
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 Traffic congestion is a common issue in urban areas. Conventional traffic signals operate on fixed timings, which often leads to inefficient traffic flow. There is a need for a system that can respond dynamically to real-time traffic conditions and optimize signal timing.
 
 ---
 
-## 💡 Proposed Solution
+##  Proposed Solution
 
 The system monitors the number of vehicles at a given time and classifies traffic into:
 
@@ -29,7 +29,7 @@ Additionally, a **reward-based mechanism** evaluates whether the adjustment was 
 
 ---
 
-## ⚙️ Features
+##  Features
 
 * 🚗 Traffic density analysis
 * ⏱️ Dynamic signal timing adjustment
@@ -47,7 +47,7 @@ Additionally, a **reward-based mechanism** evaluates whether the adjustment was 
 
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 
 1. Install required libraries:
 
@@ -63,7 +63,7 @@ python main.py
 
 ---
 
-## 📊 Output
+##  Output
 
 * Console-based simulation of traffic signals
 * Dynamic adjustment of signal timing
@@ -72,7 +72,7 @@ python main.py
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Traffic-Agent/
@@ -87,7 +87,7 @@ Traffic-Agent/
 
 ---
 
-## 🧠 Learning Approach
+##  Learning Approach
 
 This project implements a **simple learning agent**:
 
@@ -100,7 +100,7 @@ This mimics basic principles of **reinforcement learning**.
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 * Integration with real-time traffic data (IoT sensors/APIs)
 * Implementation of advanced reinforcement learning algorithms (Q-learning)
@@ -109,7 +109,7 @@ This mimics basic principles of **reinforcement learning**.
 
 ---
 
-## 📚 Learning Outcomes
+##  Learning Outcomes
 
 * Understanding of intelligent agent systems
 * Application of basic machine learning concepts
@@ -118,6 +118,6 @@ This mimics basic principles of **reinforcement learning**.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 Samarth Gawande

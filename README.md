@@ -31,15 +31,15 @@ Additionally, a **reward-based mechanism** evaluates whether the adjustment was 
 
 ##  Features
 
-* 🚗 Traffic density analysis
-* ⏱️ Dynamic signal timing adjustment
-* 🧠 Reward-based learning mechanism
-* 📊 Identification of peak and low traffic periods
-* 📈 Visualization of signal timing adaptation
+*  Traffic density analysis
+*  Dynamic signal timing adjustment
+*  Reward-based learning mechanism
+*  Identification of peak and low traffic periods
+*  Visualization of signal timing adaptation
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * **Python** – Core programming language
 * **Pandas** – Data handling and simulation
